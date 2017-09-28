@@ -3,3 +3,5 @@ This is my sample1 file
 I have updated this document
 
 Fix for feature1
+
+Fix for New Feature1
